@@ -1,11 +1,11 @@
 # Scripts Agendados
 
-Este repositório contém scripts que podem ser executados automaticamente a cada hora usando cron.
+Este repositório contém scripts agendados no cron dos servidores JDE E1 do Class.
 
 ## Como usar os scripts com cron
 
 1. Clone este repositório no servidor onde os scripts serão executados:
-   git clone https://github.com/seu-usuario/scripts-agendados.git
+   git clone https://github.com/GarciaCargill/Class-JDE-E1-Linux-Scripts.git
 
 2. Torne os scripts executáveis:
    chmod +x mon/*.sh
